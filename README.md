@@ -1,3 +1,2 @@
 # hello-world
-hello
-Hello. My name is Nooze. I hate tomatoes.
+Hello. My name is Nooze and I hate tomatoes.
