@@ -5,5 +5,8 @@
  * Date: 8.2.2018
  * Time: 15:19
  */
+use Tracy\Debugger;
+
+Debugger::enable();
 ?>
 hey
